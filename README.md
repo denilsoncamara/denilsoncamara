@@ -18,3 +18,6 @@
   - Ler mangás 📚
   - Jogar um pouco de COD 🎮
 ---
+<div align="left">
+ <img alt="Denilson's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=denilsoncamara&show_icons=true&hide_border=true&theme=dark" />
+</div>
