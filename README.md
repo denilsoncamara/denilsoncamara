@@ -7,7 +7,7 @@
  :man_technologist: Desenvolvedor **Fullstack** com skills mais fortes no **Front-end**
 - 💻 HTML | CSS | Javascript | Typescript | ReactJS | React Native | NodeJS
 - :books: Tecnólogo em **Sistemas para Internet**
-- 🚀 Atualmente estudando:
+- 🚀 Alguns cursos:
   - **Bootcamp GoStack** na **Rocketseat** :purple_heart:
     - *Treinamento imersivo nas tecnologias mais modernas de desenvolvimento web e mobile (NodeJS, ReactJS e React Native)*
   - **Bootcamp Online** no **IGTI - Instituto de Gestão e Tecnologia da Informação** :green_heart:
