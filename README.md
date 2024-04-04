@@ -17,7 +17,7 @@
   - Ler bons livros 📖
   - Ler mangás 📚
   - Jogar um pouco de COD 🎮
-  - Treinar Muaythai 🥊
+  - Nak Muay 🥊
 ---
 <div align="left">
  <img alt="Denilson's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=denilsoncamara&show_icons=true&hide_border=true&theme=dark" />
